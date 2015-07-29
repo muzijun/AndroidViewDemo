@@ -16,10 +16,13 @@
         <activity android:name="toolbar.MainActivity" />
         <activity
             android:name="toolbar.ToolbarForActionBarActivity"
-            android:theme="@style/AppTheme" />
+            android:theme="@style/ToolBarTheme" />
         <activity
             android:name="toolbar.ToolbarActivity"
-            android:theme="@style/AppTheme" />
+            android:theme="@style/ToolBarTheme" />
+        <activity
+            android:name="appbar.AppBarActivity"
+            android:theme="@style/AppBarTheme" />
     </application>
 
 </manifest>
