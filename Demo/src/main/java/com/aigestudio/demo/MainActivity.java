@@ -13,8 +13,8 @@ import android.widget.ListView;
  * @author AigeStudio 2015-07-15
  */
 public class MainActivity extends ListActivity {
-    private static final String[] VIEWS = {"Toolbar"};
-    private static final Class[] CLASSES = {toolbar.MainActivity.class};
+    private static final String[] VIEWS = {"Toolbar", "TabLayout"};
+    private static final Class[] CLASSES = {toolbar.MainActivity.class, tablayout.TabLayoutActivity.class};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

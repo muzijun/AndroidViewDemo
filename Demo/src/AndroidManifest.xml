@@ -21,8 +21,8 @@
             android:name="toolbar.ToolbarActivity"
             android:theme="@style/ToolBarTheme" />
         <activity
-            android:name="appbar.AppBarActivity"
-            android:theme="@style/AppBarTheme" />
+            android:name="tablayout.TabLayoutActivity"
+            android:theme="@style/Theme.AppCompat" />
     </application>
 
 </manifest>

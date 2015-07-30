@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="ToolBarTheme" parent="ToolBarTheme.Base" />
+    <style name="ToolBarTheme" parent="AppTheme.Base" />
 
-    <style name="ToolBarTheme.Base" parent="Theme.AppCompat.NoActionBar">
+    <style name="AppTheme.Base" parent="Theme.AppCompat.NoActionBar">
         <item name="colorPrimary">@color/app_primary_color</item>
         <item name="colorPrimaryDark">@color/app_primary_color_dark</item>
         <item name="android:windowBackground">@color/app_color_background</item>
