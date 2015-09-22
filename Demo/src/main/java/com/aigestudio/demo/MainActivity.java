@@ -8,7 +8,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 /**
- * Android控件解析基类lk
+ * Android控件解析基类
  *
  * @author AigeStudio 2015-07-15
  */
